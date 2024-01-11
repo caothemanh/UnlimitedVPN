@@ -3,5 +3,5 @@
     "versionName":"com.mdev.vpn",                  //string
     "contentText":"DIALOG_CONTENT_TEXT",           //string
     "minSupport":1.0.0,   //int
-    "url":"APP_DOWNLOAD_URL"                       //string
+    "url":"https://www.mediafire.com/download/k23palqm7ddsux6"                       //string
 }
