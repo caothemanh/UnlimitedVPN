@@ -2,6 +2,6 @@
     "versionCode":1.1.8,                    //int
     "versionName":"com.mdev.vpn",                  //string
     "contentText":"DIALOG_CONTENT_TEXT",           //string
-    "minSupport":1.0.0,   //int
+    "minSupport":1.1.5  //int
     "url":"https://www.mediafire.com/download/k23palqm7ddsux6"                       //string
 }
