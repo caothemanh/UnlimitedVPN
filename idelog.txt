@@ -1,5 +1,5 @@
 java.lang.IllegalStateException: Activity has been 
-	at com.itsaky.androidide.activities.editor.
+	/nat com.itsaky.androidide.activities.editor.
     BaseEditorActivity.getBinding(Unknown Source:13)
 	at androidx.appcompat.widget.Toolbar$3.onOutput(Unknown Source:25)
 	at com.itsaky.androidide.utils.ApkInstaller$installApk$1.invoke(SourceFile:46)
