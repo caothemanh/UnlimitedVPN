@@ -1,5 +1,6 @@
-java.lang.IllegalStateException: Activity has been destroyed
-	at com.itsaky.androidide.activities.editor.BaseEditorActivity.getBinding(Unknown Source:13)
+java.lang.IllegalStateException: Activity has been 
+	at com.itsaky.androidide.activities.editor.
+    BaseEditorActivity.getBinding(Unknown Source:13)
 	at androidx.appcompat.widget.Toolbar$3.onOutput(Unknown Source:25)
 	at com.itsaky.androidide.utils.ApkInstaller$installApk$1.invoke(SourceFile:46)
 	at com.itsaky.androidide.utils.ApkInstaller$installApk$1.invoke(SourceFile:131)
@@ -11,3 +12,7 @@ java.lang.IllegalStateException: Activity has been destroyed
 	at java.lang.reflect.Method.invoke(Native Method)
 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(Unknown Source:11)
 	at com.android.internal.os.ZygoteInit.main(Unknown Source:275)
+1
+w
+2
+3
