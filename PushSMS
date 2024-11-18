@@ -1,10 +1,10 @@
 {
 
-"SendMessage":11,
+"SendMessage":12,
 
 "MyMessage":
 
-"Chú ý!\n\nCần xoá dữ liệu ứng dụng sau khi cài đặt lên bản 1.2.8_RTM, Nhập lại key đã được cung cấp từ trước\n\Cảm ơn các bạn"
+"Chú ý!\n\n Hiện tại ứng dụng hỗ trợ máy chủ psiphon miễn phí, Ai có nhu cầu sử dụng máy chủ V2ray ,SSH tốc độ cao ổn định liên hệ Admin\n\Cảm ơn các bạn"
 
 }
 
