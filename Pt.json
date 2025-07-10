@@ -1,5 +1,22 @@
 {
-  "rooms": {},
+  "rooms": {
+    "Phòng 1": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 1",
+        "phone1": "0909459299",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloLink": "https://zalo.me/0909459299",
+        "zaloPhone": "0909459299"
+      }
+    }
+  },
   "config": {
     "ghiChu": "",
     "giaDien": 3000,
