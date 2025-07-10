@@ -1,58 +1,19 @@
 {
   "rooms": {
     "Phòng 1": {
-      "bills": [
-        {
-          "anqp": 20000,
-          "date": "10/04/2025",
-          "dienCu": 0,
-          "electricPrice": 6471,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 10
-        },
-        {
-          "anqp": 20000,
-          "date": "10/05/2025",
-          "dienCu": 6471,
-          "electricPrice": 6511,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 10,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 11
-        },
-        {
-          "anqp": 20000,
-          "date": "10/06/2025",
-          "dienCu": 6511,
-          "electricPrice": 6560,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 11,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 12
-        }
-      ],
+      "bills": [],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
-        "phone1": "",
+        "phone1": "0362418717",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
         "wifiFee": 0,
-        "zaloPhone": ""
+        "zaloLink": "https://zalo.me/0362418717",
+        "zaloPhone": "0362418717"
       }
     },
     "Phòng 2": {
