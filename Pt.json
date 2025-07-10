@@ -1,7 +1,47 @@
 {
   "rooms": {
     "Phòng 1": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6471,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 10
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6471,
+          "electricPrice": 6511,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 10,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 11
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6511,
+          "electricPrice": 6560,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 11,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 12
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
@@ -17,7 +57,47 @@
       }
     },
     "Phòng 2": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6788,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 412
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6788,
+          "electricPrice": 6885,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 412,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 420
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6885,
+          "electricPrice": 6982,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 420,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 429
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
@@ -32,7 +112,47 @@
       }
     },
     "Phòng 3": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6287,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 92
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6287,
+          "electricPrice": 6319,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 92,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 98
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6319,
+          "electricPrice": 6353,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 98,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 104
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
@@ -47,7 +167,47 @@
       }
     },
     "Phòng 4": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6362,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 777
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6362,
+          "electricPrice": 6428,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 777,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 781
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6428,
+          "electricPrice": 6494,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 781,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 786
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
@@ -62,7 +222,47 @@
       }
     },
     "Phòng 5": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 11720,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 264
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 11720,
+          "electricPrice": 11917,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 264,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 268
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 11917,
+          "electricPrice": 12160,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 268,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 271
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
@@ -77,7 +277,21 @@
       }
     },
     "Điện đường": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 0,
+          "date": "05/12/2024",
+          "dienCu": 0,
+          "electricPrice": 2054,
+          "garbage": 0,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 0,
+          "waterPrice": 0
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
