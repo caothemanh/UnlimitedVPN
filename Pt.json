@@ -280,6 +280,19 @@
       "bills": [
         {
           "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 10,
+          "electricPrice": 11,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 10,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 11
+        },
+        {
+          "anqp": 20000,
           "date": "10/05/2025",
           "dienCu": 0,
           "electricPrice": 10,
