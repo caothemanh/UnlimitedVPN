@@ -1,35 +1,35 @@
 {
   "rooms": {
-    "Phòng 1": [
-      {
-        "anqp": 20000,
-        "date": "10/07/2025",
-        "dienCu": 0,
-        "electricPrice": 10,
-        "garbage": 5000,
-        "isPaid": false,
-        "note": "Lh :0909459299-0362418717",
-        "nuocCu": 0,
-        "other": 0,
-        "roomPrice": 1200000,
-        "waterPrice": 10
+    "Phòng 1": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 1",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloPhone": ""
       }
-    ],
-    "Phòng 2": [
-      {
-        "anqp": 20000,
-        "date": "10/07/2025",
-        "dienCu": 0,
-        "electricPrice": 1,
-        "garbage": 5000,
-        "isPaid": false,
-        "note": "Lh :0909459299-0362418717",
-        "nuocCu": 0,
-        "other": 0,
-        "roomPrice": 1200000,
-        "waterPrice": 1
+    },
+    "Phòng 2": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 2",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloPhone": ""
       }
-    ]
+    }
   },
   "config": {
     "ghiChu": "Lh :0909459299-0362418717",
@@ -38,31 +38,5 @@
     "tienAnqp": 20000,
     "tienPhong": 1200000,
     "tienRac": 5000
-  },
-  "roomInfo": {
-    "Phòng 1": {
-      "electricPrice": 0,
-      "electricUsage": 0,
-      "name": "Phòng 1",
-      "phone1": "",
-      "phone2": "",
-      "trashFee": 0,
-      "waterPrice": 0,
-      "waterUsage": 0,
-      "wifiFee": 0,
-      "zaloPhone": ""
-    },
-    "Phòng 2": {
-      "electricPrice": 0,
-      "electricUsage": 0,
-      "name": "Phòng 2",
-      "phone1": "",
-      "phone2": "",
-      "trashFee": 0,
-      "waterPrice": 0,
-      "waterUsage": 0,
-      "wifiFee": 0,
-      "zaloPhone": ""
-    }
   }
 }
