@@ -38,5 +38,33 @@
     "tienAnqp": 20000,
     "tienPhong": 1200000,
     "tienRac": 5000
+  },
+  "roomInfo": {
+    "Phòng 1": {
+      "electricPrice": 0,
+      "electricUsage": 0,
+      "name": "Phòng 1",
+      "phone1": "0909459299",
+      "phone2": "",
+      "trashFee": 0,
+      "waterPrice": 0,
+      "waterUsage": 0,
+      "wifiFee": 0,
+      "zaloLink": "https://zalo.me/0909459299",
+      "zaloPhone": "0909459299"
+    },
+    "Phòng 2": {
+      "electricPrice": 0,
+      "electricUsage": 0,
+      "name": "Phòng 2",
+      "phone1": "0909090909",
+      "phone2": "",
+      "trashFee": 0,
+      "waterPrice": 0,
+      "waterUsage": 0,
+      "wifiFee": 0,
+      "zaloLink": "https://zalo.me/0909090909",
+      "zaloPhone": "0909090909"
+    }
   }
 }
