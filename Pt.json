@@ -276,48 +276,6 @@
         "zaloPhone": ""
       }
     },
-    "Phòng 6": {
-      "bills": [
-        {
-          "anqp": 20000,
-          "date": "10/05/2025",
-          "dienCu": 0,
-          "electricPrice": 10,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 10
-        },
-        {
-          "anqp": 20000,
-          "date": "10/06/2025",
-          "dienCu": 10,
-          "electricPrice": 11,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 10,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 11
-        }
-      ],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 6",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
-      }
-    },
     "Điện đường": {
       "bills": [
         {
