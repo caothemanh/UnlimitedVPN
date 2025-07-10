@@ -1,5 +1,7 @@
 {
-  "rooms": {},
+  "rooms": {
+    "Phòng 1": []
+  },
   "config": {
     "ghiChu": "Lh :0909459299-0362418717",
     "giaDien": 3000,
