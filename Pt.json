@@ -6,13 +6,14 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
-        "phone1": "",
+        "phone1": "0909459296",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
         "wifiFee": 0,
-        "zaloPhone": ""
+        "zaloLink": "https://zalo.me/0909459296",
+        "zaloPhone": "0909459296"
       }
     }
   },
