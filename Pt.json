@@ -1,44 +1,11 @@
 {
-  "rooms": {
-    "Phòng 1": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 1",
-        "phone1": "0362418717",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0362418717",
-        "zaloPhone": "0362418717"
-      }
-    },
-    "Phòng 2": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 2",
-        "phone1": "0909459299",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0909459299",
-        "zaloPhone": "0909459299"
-      }
-    }
-  },
+  "rooms": {},
   "config": {
-    "ghiChu": "Lh :0909459299-0362418717",
+    "ghiChu": "",
     "giaDien": 3000,
     "giaNuoc": 12000,
-    "tienAnqp": 20000,
-    "tienPhong": 1200000,
-    "tienRac": 5000
+    "tienAnqp": 0,
+    "tienPhong": 1000000,
+    "tienRac": 0
   }
 }
