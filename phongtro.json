@@ -46,14 +46,14 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
-        "phone1": "0362418717",
+        "phone1": "090900000",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
         "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0362418717",
-        "zaloPhone": "0362418717"
+        "zaloLink": "https://zalo.me/090900000",
+        "zaloPhone": "090900000"
       }
     },
     "Phòng 2": {
@@ -107,8 +107,7 @@
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
+        "wifiFee": 0
       }
     },
     "Phòng 3": {
@@ -162,8 +161,7 @@
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
+        "wifiFee": 0
       }
     },
     "Phòng 4": {
@@ -217,8 +215,7 @@
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
+        "wifiFee": 0
       }
     },
     "Phòng 5": {
@@ -272,8 +269,7 @@
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
+        "wifiFee": 0
       }
     },
     "Điện đường": {
@@ -301,13 +297,12 @@
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
+        "wifiFee": 0
       }
     }
   },
   "config": {
-    "ghiChu": "Lh: 0909459299-0362418717",
+    "ghiChu": "Lh :0909459299-0362418717",
     "giaDien": 3000,
     "giaNuoc": 12000,
     "tienAnqp": 20000,
