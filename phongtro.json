@@ -1,5 +1,21 @@
 {
   "rooms": {
+    "Phòng 2 hoa": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 2 hoa",
+        "phone1": "0355616132",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloLink": "https://zalo.me/0355616132",
+        "zaloPhone": "0355616132"
+      }
+    },
     "Phòng 1": {
       "bills": [
         {
@@ -54,62 +70,6 @@
         "wifiFee": 0,
         "zaloLink": "https://zalo.me/090900000",
         "zaloPhone": "090900000"
-      }
-    },
-    "Phòng 2": {
-      "bills": [
-        {
-          "anqp": 20000,
-          "date": "10/04/2025",
-          "dienCu": 0,
-          "electricPrice": 6788,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh :0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 412
-        },
-        {
-          "anqp": 20000,
-          "date": "10/05/2025",
-          "dienCu": 6788,
-          "electricPrice": 6885,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh :0909459299-0362418717",
-          "nuocCu": 412,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 420
-        },
-        {
-          "anqp": 20000,
-          "date": "10/06/2025",
-          "dienCu": 6885,
-          "electricPrice": 6982,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh :0909459299-0362418717",
-          "nuocCu": 420,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 429
-        }
-      ],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 2",
-        "phone1": "0355616132",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0355616132",
-        "zaloPhone": "0355616132"
       }
     },
     "Phòng 3": {
