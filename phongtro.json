@@ -46,52 +46,12 @@
         "wifiFee": 0
       }
     },
-    "Phòng 5": {
-      "bills": [
-        {
-          "anqp": 20000,
-          "date": "10/04/2025",
-          "dienCu": 0,
-          "electricPrice": 11720,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh :0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 264
-        },
-        {
-          "anqp": 20000,
-          "date": "10/05/2025",
-          "dienCu": 11720,
-          "electricPrice": 11917,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh :0909459299-0362418717",
-          "nuocCu": 264,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 268
-        },
-        {
-          "anqp": 20000,
-          "date": "10/06/2025",
-          "dienCu": 11917,
-          "electricPrice": 12160,
-          "garbage": 5000,
-          "isPaid": true,
-          "note": "Lh :0909459299-0362418717",
-          "nuocCu": 268,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 271
-        }
-      ],
+    "Phòng 5 nhiều": {
+      "bills": [],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
-        "name": "Phòng 5",
+        "name": "Phòng 5 nhiều",
         "phone1": "",
         "phone2": "",
         "trashFee": 0,
