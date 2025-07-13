@@ -40,6 +40,19 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 12
+        },
+        {
+          "anqp": 20000,
+          "date": "13/07/2025",
+          "dienCu": 6560,
+          "electricPrice": 6608,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh: 0909459299-0362418717",
+          "nuocCu": 12,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 14
         }
       ],
       "roomInfo": {
@@ -102,13 +115,14 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 2",
-        "phone1": "",
+        "phone1": "0355616132",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
         "wifiFee": 0,
-        "zaloPhone": ""
+        "zaloLink": "https://zalo.me/0355616132",
+        "zaloPhone": "0355616132"
       }
     },
     "Phòng 3": {
