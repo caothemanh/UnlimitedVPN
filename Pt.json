@@ -391,14 +391,12 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 6 hoat",
-        "phone1": "0909459299",
+        "phone1": "",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0909459299",
-        "zaloPhone": "0909459299"
+        "wifiFee": 0
       }
     }
   },
