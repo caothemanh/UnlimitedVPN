@@ -1,7 +1,21 @@
 {
   "rooms": {
     "Phòng 1 Huệ": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "13/07/2025",
+          "dienCu": 0,
+          "electricPrice": 6608,
+          "garbage": 5000,
+          "isPaid": false,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 14
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
