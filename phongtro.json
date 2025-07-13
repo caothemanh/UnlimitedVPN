@@ -1,25 +1,51 @@
 {
   "rooms": {
-    "Phòng 1 Huệ": {
+    "Phòng 1": {
       "bills": [
         {
           "anqp": 20000,
-          "date": "13/07/2025",
+          "date": "10/04/2025",
           "dienCu": 0,
-          "electricPrice": 6608,
+          "electricPrice": 6471,
           "garbage": 5000,
-          "isPaid": false,
+          "isPaid": true,
           "note": "Lh :0909459299-0362418717",
           "nuocCu": 0,
           "other": 0,
           "roomPrice": 1200000,
-          "waterPrice": 14
+          "waterPrice": 10
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6471,
+          "electricPrice": 6511,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 10,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 11
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6511,
+          "electricPrice": 6560,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 11,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 12
         }
       ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
-        "name": "Phòng 1 Huệ",
+        "name": "Phòng 1",
         "phone1": "090900000",
         "phone2": "",
         "trashFee": 0,
@@ -30,48 +56,235 @@
         "zaloPhone": "090900000"
       }
     },
-    "Phòng 2 hoa": {
+    "Phòng 2": {
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6788,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 412
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6788,
+          "electricPrice": 6885,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 412,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 420
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6885,
+          "electricPrice": 6982,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 420,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 429
+        }
+      ],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 2",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0
+      }
+    },
+    "Phòng 3": {
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6287,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 92
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6287,
+          "electricPrice": 6319,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 92,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 98
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6319,
+          "electricPrice": 6353,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 98,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 104
+        }
+      ],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 3",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0
+      }
+    },
+    "Phòng 4": {
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 6362,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 777
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 6362,
+          "electricPrice": 6428,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 777,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 781
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 6428,
+          "electricPrice": 6494,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 781,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 786
+        }
+      ],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 4",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0
+      }
+    },
+    "Phòng 5": {
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/04/2025",
+          "dienCu": 0,
+          "electricPrice": 11720,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 264
+        },
+        {
+          "anqp": 20000,
+          "date": "10/05/2025",
+          "dienCu": 11720,
+          "electricPrice": 11917,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 264,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 268
+        },
+        {
+          "anqp": 20000,
+          "date": "10/06/2025",
+          "dienCu": 11917,
+          "electricPrice": 12160,
+          "garbage": 5000,
+          "isPaid": true,
+          "note": "Lh :0909459299-0362418717",
+          "nuocCu": 268,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 271
+        }
+      ],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 5",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0
+      }
+    },
+    "Phòng 6": {
       "bills": [],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
-        "name": "Phòng 2 hoa",
-        "phone1": "0355616132",
+        "name": "Phòng 6",
+        "phone1": "",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
         "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0355616132",
-        "zaloPhone": "0355616132"
-      }
-    },
-    "Phòng 3 thao hào": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 3 thao hào",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0
-      }
-    },
-    "Phòng 5 nhiều": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 5 nhiều",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0
+        "zaloPhone": ""
       }
     },
     "Điện đường": {
@@ -94,20 +307,6 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Điện đường",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0
-      }
-    },
-    "Phòng 4phuong": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 4phuong",
         "phone1": "",
         "phone2": "",
         "trashFee": 0,
