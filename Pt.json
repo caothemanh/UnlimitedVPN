@@ -370,34 +370,6 @@
         "wifiFee": 0,
         "zaloPhone": ""
       }
-    },
-    "Phòng 6 hoat": {
-      "bills": [
-        {
-          "anqp": 20000,
-          "date": "13/07/2025",
-          "dienCu": 0,
-          "electricPrice": 30,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 30
-        }
-      ],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 6 hoat",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0
-      }
     }
   },
   "config": {
