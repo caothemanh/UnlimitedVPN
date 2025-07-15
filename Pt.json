@@ -126,14 +126,12 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 2",
-        "phone1": "0362418717",
+        "phone1": "",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloLink": "https://zalo.me/0362418717",
-        "zaloPhone": "0362418717"
+        "wifiFee": 0
       }
     },
     "Phòng 3": {
