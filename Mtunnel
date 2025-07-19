@@ -1,6 +1,6 @@
 {
- "versionCode": "1.4.9_RTM",
- "url": "https://www.mediafire.com/file/9z75rlq5714i8bf/app-armeabi-v7a-release.apk/file",
- "url1": "https://www.mediafire.com/file/17999zh2x60e9u1/app-arm64-v8a-release.apk/file",
-"Message": "Hiện đã có bản cập nhật ứng dụng mới v1.4.9_RTM - tối ưu ip hunter-fix trên android 14_15. Cần clean data khi cài đè hoặc xoá bản cũ trước khi cài bản v 1.4.9_RTM"
+ "versionCode": "1.5.0_RTM",
+ "url": "https://www.mediafire.com/file/ugs83bvvoxbkabi/app-armeabi-v7a-release.apk/file",
+ "url1": "https://www.mediafire.com/file/by7wou7k4xtn7fp/app-arm64-v8a-release.apk/file",
+"Message": "Hiện đã có bản cập nhật ứng dụng mới v1.5.0_RTM - tối ưu ip hunter-Cho phép tìm kiếm ip trong nền và ngay cả khi tắt màn hình "
  }
