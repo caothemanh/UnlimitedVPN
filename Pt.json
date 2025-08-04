@@ -47,7 +47,7 @@
           "dienCu": 6560,
           "electricPrice": 6608,
           "garbage": 5000,
-          "isPaid": false,
+          "isPaid": true,
           "note": "Lh: 0909459299-0362418717",
           "nuocCu": 12,
           "other": 0,
