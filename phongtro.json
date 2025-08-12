@@ -59,12 +59,14 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
-        "phone1": "",
+        "phone1": "0362418717",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0
+        "wifiFee": 0,
+        "zaloLink": "https://zalo.me/0362418717",
+        "zaloPhone": "0362418717"
       }
     },
     "Phòng 2": {
@@ -126,12 +128,14 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 2",
-        "phone1": "",
+        "phone1": "0355616132",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0
+        "wifiFee": 0,
+        "zaloLink": "https://zalo.me/0355616132",
+        "zaloPhone": "0355616132"
       }
     },
     "Phòng 3": {
