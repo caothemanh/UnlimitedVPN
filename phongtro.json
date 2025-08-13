@@ -72,12 +72,14 @@
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
-        "phone1": "",
+        "phone1": "0362418717",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0
+        "wifiFee": 0,
+        "zaloLink": "https://zalo.me/0362418717",
+        "zaloPhone": "0362418717"
       }
     },
     "Phòng 2": {
@@ -133,31 +135,20 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 437
-        },
-        {
-          "anqp": 20000,
-          "date": "12/08/2025",
-          "dienCu": 7080,
-          "electricPrice": 7176,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 437,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 446
         }
       ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 2",
-        "phone1": "",
+        "phone1": "0355616132",
         "phone2": "",
         "trashFee": 0,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0
+        "wifiFee": 0,
+        "zaloLink": "https://zalo.me/0355616132",
+        "zaloPhone": "0355616132"
       }
     },
     "Phòng 3": {
@@ -213,19 +204,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 110
-        },
-        {
-          "anqp": 20000,
-          "date": "12/08/2025",
-          "dienCu": 6386,
-          "electricPrice": 6390,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 110,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 111
         }
       ],
       "roomInfo": {
@@ -294,19 +272,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 790
-        },
-        {
-          "anqp": 20000,
-          "date": "12/08/2025",
-          "dienCu": 6543,
-          "electricPrice": 6591,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 790,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 795
         }
       ],
       "roomInfo": {
@@ -375,19 +340,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 273
-        },
-        {
-          "anqp": 20000,
-          "date": "12/08/2025",
-          "dienCu": 12234,
-          "electricPrice": 12261,
-          "garbage": 5000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 273,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 275
         }
       ],
       "roomInfo": {
