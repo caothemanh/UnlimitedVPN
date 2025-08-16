@@ -1,20 +1,32 @@
-[
-  {
-    "name": "Tùy chỉnh IP",
-    "description": "Nhập thủ công",
-    "icon": 0,
-    "type": "custom"
-  },
-  {
-    "name": "Viettel",
-    "description": "Nhà mạng Viettel",
-    "icon": 2131230890,
-    "type": "viettel"
-  },
-  {
-    "name": "Mobifone",
-    "description": "Nhà mạng Mobifone",
-    "icon": 2131230891,
-    "type": "mobifone"
-  }
-]
+{
+  "ipSources": [
+    {
+      "name": "Tùy chỉnh IP",
+      "description": "Nhập thủ công",
+      "icon": 0,
+      "type": "custom",
+      "ips": []
+    },
+    {
+      "name": "Viettel",
+      "description": "Nhà mạng Viettel",
+      "icon": 2131230890,
+      "type": "viettel",
+      "ips": [
+        "10.10.1.1",
+        "10.10.1.2",
+        "10.10.1.3"
+      ]
+    },
+    {
+      "name": "Mobifone",
+      "description": "Nhà mạng Mobifone",
+      "icon": 2131230891,
+      "type": "mobifone",
+      "ips": [
+        "10.20.1.1",
+        "10.20.1.2"
+      ]
+    }
+  ]
+}
