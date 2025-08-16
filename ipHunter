@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tùy chỉnh IP",
+    "description": "Nhập thủ công",
+    "icon": 0,
+    "type": "custom"
+  },
+  {
+    "name": "Viettel",
+    "description": "Nhà mạng Viettel",
+    "icon": 2131230890,
+    "type": "viettel"
+  },
+  {
+    "name": "Mobifone",
+    "description": "Nhà mạng Mobifone",
+    "icon": 2131230891,
+    "type": "mobifone"
+  }
+]
