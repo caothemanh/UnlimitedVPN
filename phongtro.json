@@ -468,21 +468,6 @@
         "zaloPhone": ""
       }
     },
-    "Phòng 6": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "Phòng 6",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
-      }
-    },
     "Điện đường": {
       "bills": [
         {
