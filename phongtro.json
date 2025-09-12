@@ -159,19 +159,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 446
-        },
-        {
-          "anqp": 20000,
-          "date": "10/09/2025",
-          "dienCu": 7176,
-          "electricPrice": 7269,
-          "garbage": 15000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 446,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 454
         }
       ],
       "roomInfo": {
@@ -252,19 +239,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 111
-        },
-        {
-          "anqp": 20000,
-          "date": "10/09/2025",
-          "dienCu": 6390,
-          "electricPrice": 6399,
-          "garbage": 15000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 111,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 112
         }
       ],
       "roomInfo": {
@@ -346,19 +320,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 795
-        },
-        {
-          "anqp": 20000,
-          "date": "10/09/2025",
-          "dienCu": 6591,
-          "electricPrice": 6632,
-          "garbage": 15000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 795,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 799
         }
       ],
       "roomInfo": {
@@ -440,25 +401,27 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 275
-        },
-        {
-          "anqp": 20000,
-          "date": "10/09/2025",
-          "dienCu": 12261,
-          "electricPrice": 12281,
-          "garbage": 15000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 275,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 276
         }
       ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 5",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloPhone": ""
+      }
+    },
+    "Phòng 6": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 6",
         "phone1": "",
         "phone2": "",
         "trashFee": 0,
