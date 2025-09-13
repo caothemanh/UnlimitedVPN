@@ -165,7 +165,7 @@
           "date": "10/09/2025",
           "dienCu": 7176,
           "electricPrice": 7269,
-          "garbage": 10000,
+          "garbage": 15000,
           "isPaid": false,
           "note": "Lh: 0909459299-0362418717",
           "nuocCu": 446,
@@ -258,7 +258,7 @@
           "date": "10/09/2025",
           "dienCu": 6390,
           "electricPrice": 6399,
-          "garbage": 10000,
+          "garbage": 15000,
           "isPaid": false,
           "note": "Lh: 0909459299-0362418717",
           "nuocCu": 111,
@@ -352,7 +352,7 @@
           "date": "10/09/2025",
           "dienCu": 6591,
           "electricPrice": 6632,
-          "garbage": 10000,
+          "garbage": 15000,
           "isPaid": false,
           "note": "Lh: 0909459299-0362418717",
           "nuocCu": 795,
@@ -446,7 +446,7 @@
           "date": "10/09/2025",
           "dienCu": 12261,
           "electricPrice": 12281,
-          "garbage": 10000,
+          "garbage": 15000,
           "isPaid": false,
           "note": "Lh: 0909459299-0362418717",
           "nuocCu": 275,
@@ -504,6 +504,6 @@
     "giaNuoc": 14000,
     "tienAnqp": 20000,
     "tienPhong": 1200000,
-    "tienRac": 10000
+    "tienRac": 15000
   }
 }
