@@ -1,20 +1,5 @@
 {
   "rooms": {
-    "kiot": {
-      "bills": [],
-      "roomInfo": {
-        "electricPrice": 0,
-        "electricUsage": 0,
-        "name": "kiot",
-        "phone1": "",
-        "phone2": "",
-        "trashFee": 0,
-        "waterPrice": 0,
-        "waterUsage": 0,
-        "wifiFee": 0,
-        "zaloPhone": ""
-      }
-    },
     "Phòng 1": {
       "bills": [
         {
@@ -42,6 +27,20 @@
         "waterUsage": 0,
         "wifiFee": 0,
         "zaloPhone": ""
+      }
+    },
+    "kiốt": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "kiốt",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0
       }
     },
     "Phòng 2": {
