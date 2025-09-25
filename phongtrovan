@@ -73,6 +73,21 @@
         "wifiFee": 0,
         "zaloPhone": ""
       }
+    },
+    "Phòng 5": {
+      "bills": [],
+      "roomInfo": {
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Phòng 5",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloPhone": ""
+      }
     }
   },
   "config": {
