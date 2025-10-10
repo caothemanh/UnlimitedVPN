@@ -1,7 +1,21 @@
 {
   "rooms": {
     "Phòng 1": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 0,
+          "date": "10/10/2025",
+          "dienCu": 0,
+          "electricPrice": 13,
+          "garbage": 20000,
+          "isPaid": true,
+          "note": "",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1700000,
+          "waterPrice": 3
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
