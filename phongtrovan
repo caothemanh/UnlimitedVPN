@@ -120,7 +120,21 @@
       }
     },
     "Phòng 8": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 0,
+          "date": "4/10/2025",
+          "dienCu": 0,
+          "electricPrice": 0,
+          "garbage": 20000,
+          "isPaid": false,
+          "note": "",
+          "nuocCu": 0,
+          "other": 340,
+          "roomPrice": 1700000,
+          "waterPrice": 0
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
