@@ -177,21 +177,7 @@
       }
     },
     "Phòng 9": {
-      "bills": [
-        {
-          "anqp": 0,
-          "date": "29/10/2025",
-          "dienCu": 0,
-          "electricPrice": 0,
-          "garbage": 20000,
-          "isPaid": false,
-          "note": "tiền  tạm  trú 100 nha chị",
-          "nuocCu": 0,
-          "other": 100000,
-          "roomPrice": 1700000,
-          "waterPrice": 0
-        }
-      ],
+      "bills": [],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
