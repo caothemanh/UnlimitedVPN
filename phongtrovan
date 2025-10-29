@@ -81,7 +81,7 @@
           "dienCu": 0,
           "electricPrice": 15,
           "garbage": 20000,
-          "isPaid": false,
+          "isPaid": true,
           "note": "tiền  cọc 200",
           "nuocCu": 0,
           "other": 200000,
@@ -177,7 +177,21 @@
       }
     },
     "Phòng 9": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 0,
+          "date": "29/10/2025",
+          "dienCu": 0,
+          "electricPrice": 96,
+          "garbage": 20000,
+          "isPaid": false,
+          "note": "",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1650000,
+          "waterPrice": 7
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
