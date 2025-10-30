@@ -103,21 +103,7 @@
       }
     },
     "Phòng 5": {
-      "bills": [
-        {
-          "anqp": 0,
-          "date": "30/10/2025",
-          "dienCu": 0,
-          "electricPrice": 107,
-          "garbage": 20000,
-          "isPaid": false,
-          "note": "tạm trú 200k",
-          "nuocCu": 0,
-          "other": 20000,
-          "roomPrice": 1700000,
-          "waterPrice": 24
-        }
-      ],
+      "bills": [],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
