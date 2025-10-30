@@ -111,9 +111,9 @@
           "electricPrice": 107,
           "garbage": 20000,
           "isPaid": false,
-          "note": "",
+          "note": "tạm trú 200k",
           "nuocCu": 0,
-          "other": 200,
+          "other": 20000,
           "roomPrice": 1700000,
           "waterPrice": 24
         }
