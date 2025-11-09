@@ -30,7 +30,21 @@
       }
     },
     "kiốt": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 0,
+          "date": "09/11/2025",
+          "dienCu": 0,
+          "electricPrice": 30,
+          "garbage": 20000,
+          "isPaid": false,
+          "note": "",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 3200000,
+          "waterPrice": 31
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
