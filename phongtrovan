@@ -37,7 +37,7 @@
           "dienCu": 0,
           "electricPrice": 30,
           "garbage": 20000,
-          "isPaid": false,
+          "isPaid": true,
           "note": "",
           "nuocCu": 0,
           "other": 0,
