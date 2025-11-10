@@ -196,7 +196,7 @@
           "dienCu": 0,
           "electricPrice": 73,
           "garbage": 20000,
-          "isPaid": false,
+          "isPaid": true,
           "note": "tiền tạm trú  200 k+792k ở  14 ngày e nhé",
           "nuocCu": 0,
           "other": 200000,
