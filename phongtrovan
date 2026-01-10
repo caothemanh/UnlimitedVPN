@@ -217,11 +217,11 @@
           "electricPrice": 178,
           "garbage": 20000,
           "isPaid": false,
-          "note": "16 ngày",
+          "note": "l16 ngày",
           "nuocCu": 11,
           "other": 853000,
           "roomPrice": 1600000,
-          "waterPrice": 45
+          "waterPrice": 20
         },
         {
           "anqp": 300000,
