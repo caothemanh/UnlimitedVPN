@@ -224,7 +224,7 @@
           "waterPrice": 45
         },
         {
-          "anqp": 0,
+          "anqp": 300000,
           "date": "10/01/2026",
           "dienCu": 178,
           "electricPrice": 227,
@@ -232,7 +232,7 @@
           "isPaid": false,
           "note": "50000",
           "nuocCu": 45,
-          "other": 300000,
+          "other": 600000,
           "roomPrice": 1500000,
           "waterPrice": 36
         }
