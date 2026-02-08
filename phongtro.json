@@ -756,7 +756,7 @@
         {
           "anqp": 20000,
           "date": "10/01/2026",
-          "dienCu": 2300,
+          "dienCu": 12300,
           "electricPrice": 2336,
           "garbage": 10000,
           "isPaid": false,
