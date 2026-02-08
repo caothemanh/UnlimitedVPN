@@ -611,14 +611,14 @@
           "anqp": 20000,
           "date": "08/02/2026",
           "dienCu": 6783,
-          "electricPrice": 6560,
+          "electricPrice": 6459,
           "garbage": 10000,
           "isPaid": false,
           "note": "Lh: 0909459299-0362418717",
           "nuocCu": 811,
           "other": 0,
           "roomPrice": 1200000,
-          "waterPrice": 555
+          "waterPrice": 123
         }
       ],
       "roomInfo": {
