@@ -320,12 +320,12 @@
         {
           "anqp": 200000,
           "date": "10/02/2026",
-          "dienCu": 106,
+          "dienCu": 197,
           "electricPrice": 197,
           "garbage": 20000,
           "isPaid": false,
           "note": "50000",
-          "nuocCu": 23,
+          "nuocCu": 47,
           "other": 850000,
           "roomPrice": 1500000,
           "waterPrice": 51
