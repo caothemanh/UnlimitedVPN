@@ -308,14 +308,14 @@
           "anqp": 0,
           "date": "30/10/2025",
           "dienCu": 0,
-          "electricPrice": 147,
+          "electricPrice": 178,
           "garbage": 20000,
           "isPaid": false,
           "note": "ltạm trú 200k",
           "nuocCu": 0,
           "other": 200000,
           "roomPrice": 1700000,
-          "waterPrice": 47
+          "waterPrice": 45
         },
         {
           "anqp": 200000,
