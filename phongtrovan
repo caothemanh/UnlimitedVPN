@@ -274,6 +274,19 @@
           "other": 600000,
           "roomPrice": 1500000,
           "waterPrice": 36
+        },
+        {
+          "anqp": 0,
+          "date": "10/02/2026",
+          "dienCu": 227,
+          "electricPrice": 254,
+          "garbage": 20000,
+          "isPaid": false,
+          "note": "50000",
+          "nuocCu": 36,
+          "other": 0,
+          "roomPrice": 1500000,
+          "waterPrice": 45
         }
       ],
       "roomInfo": {
