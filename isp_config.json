@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "isps": [
+    {
+      "name": "Viettel",
+      "icon": "🟥",
+      "prefixes": "10.1;10.2;10.3;10.4"
+    },
+    {
+      "name": "Mobifone",
+      "icon": "🟦",
+      "prefixes": "10.10;10.11;10.12"
+    },
+    {
+      "name": "Vinaphone",
+      "icon": "🟩",
+      "prefixes": "10.100;10.101;10.102"
+    },
+    {
+      "name": "FPT",
+      "icon": "🟧",
+      "prefixes": "10.20;10.21;10.22"
+    },
+    {
+      "name": "VNPT",
+      "icon": "🟨",
+      "prefixes": "10.30;10.31;10.32"
+    }
+  ]
+}
