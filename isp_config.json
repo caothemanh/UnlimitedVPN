@@ -1,29 +1,29 @@
 {
-  "version": "23:53:08_21:02:2026",
+  "version": "23:56:24_21:02:2026",
   "isps": [
     {
       "name": "Viettel",
-      "icon": "🟥",
+      "icon": "🔴",
       "prefixes": "11.14;11.16;11.15;26.4;9.9:9.104;26.3"
     },
     {
       "name": "Mobifone",
-      "icon": "🟦",
+      "icon": "🔵",
       "prefixes": "10.10;10.11;10.12"
     },
     {
       "name": "Vinaphone",
-      "icon": "🟩",
+      "icon": "🟢",
       "prefixes": "10.100;10.101;10.102"
     },
     {
       "name": "FPT",
-      "icon": "🟧",
+      "icon": "🟠",
       "prefixes": "10.20;10.21;10.22"
     },
     {
       "name": "VNPT",
-      "icon": "🟨",
+      "icon": "🟡",
       "prefixes": "10.30;10.31;10.32"
     }
   ]
