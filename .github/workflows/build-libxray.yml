@@ -8,18 +8,18 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.23'
+          go-version: '1.21'
       - name: Setup Android NDK
         uses: nttld/setup-ndk@v1
         with:
-          ndk-version: r27c
+          ndk-version: r26d
       - name: Clone AndroidLibXrayLite
         run: git clone --recursive https://github.com/2dust/AndroidLibXrayLite
       - name: Install gomobile
         run: |
           cd AndroidLibXrayLite
-          go install golang.org/x/mobile/cmd/gomobile@latest
-          go install golang.org/x/mobile/cmd/gobind@latest
+          go install golang.org/x/mobile/cmd/gomobile@v0.0.0-20231127183840-76ac6878050a
+          go install golang.org/x/mobile/cmd/gobind@v0.0.0-20231127183840-76ac6878050a
           gomobile init
       - name: Build aar
         run: |
