@@ -393,19 +393,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 505
-        },
-        {
-          "anqp": 20000,
-          "date": "08/06/2026",
-          "dienCu": 8366,
-          "electricPrice": 8578,
-          "garbage": 10000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 505,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 513
         }
       ],
       "roomInfo": {
@@ -603,19 +590,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 145
-        },
-        {
-          "anqp": 20000,
-          "date": "08/06/2026",
-          "dienCu": 6660,
-          "electricPrice": 6802,
-          "garbage": 10000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 145,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 152
         }
       ],
       "roomInfo": {
@@ -814,19 +788,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 832
-        },
-        {
-          "anqp": 20000,
-          "date": "08/06/2026",
-          "dienCu": 7041,
-          "electricPrice": 7126,
-          "garbage": 10000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 832,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 837
         }
       ],
       "roomInfo": {
@@ -1025,19 +986,6 @@
           "other": 0,
           "roomPrice": 1200000,
           "waterPrice": 283
-        },
-        {
-          "anqp": 20000,
-          "date": "08/06/2026",
-          "dienCu": 12402,
-          "electricPrice": 12427,
-          "garbage": 10000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 283,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 285
         }
       ],
       "roomInfo": {
