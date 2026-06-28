@@ -1,5 +1,5 @@
 {
-  "version": "17:43:10-11\/06\/2026",
+  "version": "13:31:49-28\/06\/2026",
   "isps": [
     {
       "name": "Viettel",
@@ -9,7 +9,7 @@
     {
       "name": "Mobifone",
       "icon": "🔵",
-      "prefixes": "10.10;10.11;10.12"
+      "prefixes": "100."
     },
     {
       "name": "Vinaphone",
