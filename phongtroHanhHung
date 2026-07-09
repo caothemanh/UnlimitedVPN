@@ -1,7 +1,21 @@
 {
   "rooms": {
     "Kiot": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "09/07/2026",
+          "dienCu": 0,
+          "electricPrice": 0,
+          "garbage": 10000,
+          "isPaid": false,
+          "note": "",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 5000000,
+          "waterPrice": 0
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
