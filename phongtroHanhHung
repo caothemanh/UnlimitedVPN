@@ -1,1 +1,11 @@
-
+{
+  "rooms": {},
+  "config": {
+    "ghiChu": "",
+    "giaDien": 3000,
+    "giaNuoc": 12000,
+    "tienAnqp": 0,
+    "tienPhong": 1000000,
+    "tienRac": 0
+  }
+}
