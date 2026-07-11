@@ -30,7 +30,21 @@
       }
     },
     "Phòng 1": {
-      "bills": [],
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "10/06/2026",
+          "dienCu": 0,
+          "electricPrice": 9483,
+          "garbage": 10000,
+          "isPaid": false,
+          "note": "",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 1200000,
+          "waterPrice": 46
+        }
+      ],
       "roomInfo": {
         "electricPrice": 0,
         "electricUsage": 0,
