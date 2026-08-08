@@ -212,11 +212,11 @@
         }
       ],
       "roomInfo": {
-        "customGiaDien": 3000,
-        "customGiaNuoc": 14000,
-        "customTienAnqp": 20000,
-        "customTienPhong": 1200000,
-        "customTienRac": 10000,
+        "customGiaDien": 0,
+        "customGiaNuoc": 0,
+        "customTienAnqp": 0,
+        "customTienPhong": 0,
+        "customTienRac": 0,
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
