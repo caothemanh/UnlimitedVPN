@@ -223,7 +223,7 @@
         "phone1": "",
         "phone2": "",
         "trashFee": 0,
-        "useCustomPrice": true,
+        "useCustomPrice": false,
         "waterPrice": 0,
         "waterUsage": 0,
         "wifiFee": 0
