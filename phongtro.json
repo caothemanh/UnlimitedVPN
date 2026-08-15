@@ -1,5 +1,40 @@
 {
   "rooms": {
+    "Kiot": {
+      "bills": [
+        {
+          "anqp": 20000,
+          "date": "09/07/2026",
+          "dienCu": 0,
+          "electricPrice": 0,
+          "garbage": 10000,
+          "isPaid": false,
+          "note": "",
+          "nuocCu": 0,
+          "other": 0,
+          "roomPrice": 5000000,
+          "waterPrice": 0
+        }
+      ],
+      "roomInfo": {
+        "customGiaDien": 0,
+        "customGiaNuoc": 0,
+        "customTienAnqp": 0,
+        "customTienPhong": 0,
+        "customTienRac": 0,
+        "electricPrice": 0,
+        "electricUsage": 0,
+        "name": "Kiot",
+        "phone1": "",
+        "phone2": "",
+        "trashFee": 0,
+        "useCustomPrice": false,
+        "waterPrice": 0,
+        "waterUsage": 0,
+        "wifiFee": 0,
+        "zaloPhone": ""
+      }
+    },
     "Phòng 1": {
       "bills": [
         {
@@ -43,11 +78,11 @@
         }
       ],
       "roomInfo": {
-        "customGiaDien": 3000,
-        "customGiaNuoc": 14000,
-        "customTienAnqp": 20000,
-        "customTienPhong": 1200000,
-        "customTienRac": 10000,
+        "customGiaDien": 0,
+        "customGiaNuoc": 0,
+        "customTienAnqp": 0,
+        "customTienPhong": 0,
+        "customTienRac": 0,
         "electricPrice": 0,
         "electricUsage": 0,
         "name": "Phòng 1",
@@ -57,7 +92,8 @@
         "useCustomPrice": false,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0
+        "wifiFee": 0,
+        "zaloPhone": ""
       }
     },
     "Phòng 2": {
@@ -91,7 +127,8 @@
         "useCustomPrice": false,
         "waterPrice": 0,
         "waterUsage": 0,
-        "wifiFee": 0
+        "wifiFee": 0,
+        "zaloPhone": ""
       }
     },
     "Phòng 3": {
@@ -199,35 +236,8 @@
         "zaloPhone": ""
       }
     },
-    "Điện đường": {
-      "bills": [
-        {
-          "anqp": 0,
-          "date": "05/12/2024",
-          "dienCu": 0,
-          "electricPrice": 2054,
-          "garbage": 0,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 0,
-          "waterPrice": 0
-        },
-        {
-          "anqp": 20000,
-          "date": "08/02/2026",
-          "dienCu": 2054,
-          "electricPrice": 2099,
-          "garbage": 10000,
-          "isPaid": false,
-          "note": "Lh: 0909459299-0362418717",
-          "nuocCu": 0,
-          "other": 0,
-          "roomPrice": 1200000,
-          "waterPrice": 0
-        }
-      ],
+    "Phòng 6": {
+      "bills": [],
       "roomInfo": {
         "customGiaDien": 0,
         "customGiaNuoc": 0,
@@ -236,7 +246,7 @@
         "customTienRac": 0,
         "electricPrice": 0,
         "electricUsage": 0,
-        "name": "Điện đường",
+        "name": "Phòng 6",
         "phone1": "",
         "phone2": "",
         "trashFee": 0,
@@ -249,9 +259,9 @@
     }
   },
   "config": {
-    "ghiChu": "Lh: 0909459299-0362418717",
+    "ghiChu": "",
     "giaDien": 3000,
-    "giaNuoc": 14000,
+    "giaNuoc": 12000,
     "tienAnqp": 20000,
     "tienPhong": 1200000,
     "tienRac": 10000
