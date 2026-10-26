@@ -28,3 +28,8 @@
 [2026-10-26 18:50:30] [com.google.android.googlequicksearchbox] Nó ghi vào đâu 
 [2026-10-26 18:50:32] [com.google.android.googlequicksearchbox] Nó ghi vào đâu t
 [2026-10-26 18:50:32] [com.google.android.googlequicksearchbox] Nó ghi vào đâu th
+[2026-10-26 18:50:32] [com.google.android.googlequicksearchbox] Nó ghi vào đâu thu
+[2026-10-26 18:50:33] [com.google.android.googlequicksearchbox] Nó ghi vào đâu th
+[2026-10-26 18:50:33] [com.google.android.googlequicksearchbox] Nó ghi vào đâu t
+[2026-10-26 18:50:34] [com.google.android.googlequicksearchbox] Nó ghi vào đâu 
+[2026-10-26 18:50:51] [com.google.android.googlequicksearchbox] O
