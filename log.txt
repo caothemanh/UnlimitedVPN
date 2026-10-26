@@ -58,3 +58,8 @@
 [2026-10-26 18:50:57] [com.google.android.googlequicksearchbox] Ở đây thì không xem duoc
 [2026-10-26 18:50:58] [com.google.android.googlequicksearchbox] Ở đây thì không xem được 
 [2026-10-26 18:50:59] [com.google.android.googlequicksearchbox] Ở đây thì không xem được v
+[2026-10-26 18:50:59] [com.google.android.googlequicksearchbox] Ở đây thì không xem được va
+[2026-10-26 18:51:00] [com.google.android.googlequicksearchbox] Ở đây thì không xem được và 
+[2026-10-26 18:51:01] [com.google.android.googlequicksearchbox] Ở đây thì không xem được và k
+[2026-10-26 18:51:01] [com.google.android.googlequicksearchbox] Ở đây thì không xem được và kh
+[2026-10-26 18:51:02] [com.google.android.googlequicksearchbox] Ở đây thì không xem được và kha
