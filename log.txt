@@ -113,3 +113,8 @@
 [2026-10-26 18:51:35] [com.google.android.googlequicksearchbox] Từ android 12 
 [2026-10-26 18:51:36] [com.google.android.googlequicksearchbox] Từ android 12 k
 [2026-10-26 18:51:36] [com.google.android.googlequicksearchbox] Từ android 12 kh
+[2026-10-26 18:51:36] [com.google.android.googlequicksearchbox] Từ android 12 khi
+[2026-10-26 18:51:36] [com.google.android.googlequicksearchbox] Từ android 12 khin
+[2026-10-26 18:51:36] [com.google.android.googlequicksearchbox] Từ android 12 khing
+[2026-10-26 18:51:37] [com.google.android.googlequicksearchbox] Từ android 12 không 
+[2026-10-26 18:51:38] [com.google.android.googlequicksearchbox] Từ android 12 không t
