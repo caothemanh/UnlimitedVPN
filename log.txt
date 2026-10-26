@@ -445,3 +445,8 @@ Có thể ghi log
 Có thể ghi lo
 Có thể ghi l
 Có thể ghi 
+Có thể ghi t
+Có thể ghi te
+Có thể ghi tẽ
+Có thể ghi tex
+Có thể ghi text
