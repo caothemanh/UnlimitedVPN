@@ -1,5 +1,1 @@
-[2026-10-26 18:54:51] [com.android.quicksearchbox] ksb
-[2026-10-26 18:54:52] [com.android.quicksearchbox] ksbd
-[2026-10-26 18:54:53] [com.android.quicksearchbox] ksbdo
-[2026-10-26 18:54:53] [com.android.quicksearchbox] ksbdoo
-[2026-10-26 18:54:54] [com.android.quicksearchbox] ksbdooo
+[2026-10-26 20:24:50] [com.miui.home] Mở thông tin ứng dụng googlestore.
