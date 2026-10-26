@@ -38,3 +38,8 @@
 [2026-10-26 18:50:52] [com.google.android.googlequicksearchbox] Ở đ
 [2026-10-26 18:50:52] [com.google.android.googlequicksearchbox] Ở đa
 [2026-10-26 18:50:52] [com.google.android.googlequicksearchbox] Ở đâ
+[2026-10-26 18:50:52] [com.google.android.googlequicksearchbox] Ở đây
+[2026-10-26 18:50:53] [com.google.android.googlequicksearchbox] Ở đây 
+[2026-10-26 18:50:53] [com.google.android.googlequicksearchbox] Ở đây t
+[2026-10-26 18:50:53] [com.google.android.googlequicksearchbox] Ở đây th
+[2026-10-26 18:50:54] [com.google.android.googlequicksearchbox] Ở đây thi
