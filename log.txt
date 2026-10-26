@@ -123,3 +123,8 @@
 [2026-10-26 18:51:39] [com.google.android.googlequicksearchbox] Từ android 12 không thể 
 [2026-10-26 18:51:39] [com.google.android.googlequicksearchbox] Từ android 12 không thể x
 [2026-10-26 18:51:40] [com.google.android.googlequicksearchbox] Từ android 12 không thể xe
+[2026-10-26 18:51:40] [com.google.android.googlequicksearchbox] Từ android 12 không thể xem
+[2026-10-26 18:51:40] [com.google.android.googlequicksearchbox] Từ android 12 không thể xem 
+[2026-10-26 18:51:40] [com.google.android.googlequicksearchbox] Từ android 12 không thể xem du
+[2026-10-26 18:51:41] [com.google.android.googlequicksearchbox] Từ android 12 không thể xem dũo
+[2026-10-26 18:51:41] [com.google.android.googlequicksearchbox] Từ android 12 không thể xem được 
