@@ -1,1 +1,3 @@
 [2026-10-26 20:24:50] [com.miui.home] Mở thông tin ứng dụng googlestore.
+[2026-10-26 20:24:50] [com.miui.home] googlestore
+[2026-10-26 20:25:00] [com.miui.home] Mở thông tin ứng dụng googlestore.
